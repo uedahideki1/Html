@@ -1,0 +1,9 @@
+	/* estilo.css */
+
+	h2 {
+	  margin-bottom: 20px; /* Defina a quantidade desejada de espaçamento entre h2 e parágrafos */
+	}
+
+	p {
+	  margin-top: 3px; /* Defina a quantidade desejada de espaçamento entre parágrafos */
+	}
